@@ -1,5 +1,7 @@
 # DrivingSchool
 
+This is a sample project that gives a starting point to start an **angular 6** application with server side rendering (using *angular-uiversal*) and material design (using *angular-material*).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0. It uses angular universal and material design as well.
 
 ## Development server
